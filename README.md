@@ -1,4 +1,4 @@
-<h1>JFront End Projects </h1>
+<h1>Front End Projects </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
